@@ -1,3 +1,4 @@
+#This code converts .ipynb files to .py files and .pdf files by going inside a directory and each folder and subfolder
 import nbformat
 from nbconvert import PDFExporter
 import os
